@@ -1,10 +1,8 @@
 # Hi there, I'm Dana! 👋
 
-**Automation QA Engineer | Informatics Student**
+**Automation QA Engineer**
 
-I build robust test automation frameworks and ensure software quality through end-to-end, API, and mobile testing. Passionate about Playwright, TypeScript, clean POM architecture, and CI/CD pipelines.
-
----
+Designing and implementing test automation strategies across web, API, and mobile. I architect scalable frameworks, establish quality gates in CI/CD pipelines, and drive testing best practices that ship reliable software.
 
 ### 📫 Get in Touch
 
